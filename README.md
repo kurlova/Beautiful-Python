@@ -6,3 +6,5 @@ Source: https://www.youtube.com/watch?v=OSGv2VnC0go&index=1&list=LL5U3IOd5gxMQWr
 ('Transforming Code into Beautiful, Idiomatic Python' by Raymond Hettinger)
 
 Almost all suggestions from the video are present in the file.
+
+Test change
